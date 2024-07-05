@@ -1,0 +1,40 @@
+.player{
+      
+  background: radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+  radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+    
+ background-color: #b7cc3d;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 200px;
+  margin-top: 70px;
+  margin-bottom: 20px;
+  margin-left: 700px;
+}
+.card{
+  
+    display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+
+img{   
+    width: 90px;
+    height: 130px;
+    margin-top: 30px;
+}
+.player h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .player p {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+
+
